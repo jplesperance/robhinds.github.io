@@ -1,7 +1,7 @@
 # Site settings
-title: Rob Hinds
-twitter_username: rob_hinds
-name: Rob Hinds
+title: Jesse P Lesperance
+twitter_username: jlesperance
+name: Jesse P Lesperance
 
 # Build settings
 markdown: kramdown
@@ -10,104 +10,60 @@ markdown: kramdown
 #Links that will appear in the navbar
 primarylinks:
  - title: Blog
-   url: http://automateddeveloper.blogspot.com/
+   url: https://lesperance.io
  - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://github.com/jplesperance
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
+   url: https://www.linkedin.com/in/jesseplesperance
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
+ - Cloud Security
+ - Kubernetes/Istio
+ - Cryptography
  - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+ - DevOps
+ - Continuous Integration
+ - Network/Data/Infrastructure Security
+ - DFIR
+ - Network Penetration Testing
+ - Wireless Security
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
+blogfeed: https://lesperance.io/feed.xml
 
 #Work experience is required
 roles:
- - title: CTO
-   start: 2017
+ - title: Senior Security Architect
+   start: 2018
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
-   end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
+   employer: Evernote
+   description: Responsible for Infrastructure, Network and Data Security
+    - Create and Socialize Security Policies to the Technical Operations and Engineering teams
+    - Conduct security reviews on new cloud products
+    - Review all infrastructure, data and network components of all software and design documentation
+    - Refactored IAM usage from a broad access model down to a least privileged model
+    - Create a data catalog, with data classifications
+    - Create and document threat models, and determine the needed controls to minimize risks to an acceptable level
+    - Setup tools to scan the Cloud infrastructure against a set of security policies and alert on violations
+    - Audit the cloud infrastructure and IAM implementations to ensure defined policies and approved patterns are continuously being followed
+    - Work with Tech Ops and Engineering to define new patterns that meet the organization's security policies and goals as needed
+    - Defined a secure and auditable secret management solution and policy; provided a roadmap of how the Tech Ops team should implement the solution to minimize engineers ability to see all secrets
+    - Defined a Kubernetes Security Maturity roadmap to help improve the security posture of all microservices deployments and help ensure a least privileged model
+    - Led the infrastructure and security sub-teams for designing and standing up a new Kubernetes cluster with the Istio Service Mesh
 
 #Education is required
 education:
  - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
-
-#This section is optional (as is the image link below)
-coursera:
-   profileurl: https://www.coursera.org/user/i/c6362b4056f755a04bef6a791a62102b
-   courses:
-    - title: Functional Programming Principles in Scala
-      link: https://www.coursera.org/course/progfun
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/progfun/small-icon.hover.png
-      date: September 16, 2013
-    - title: Algorithms Design and Analysis, Part 1
-      link: https://www.coursera.org/specializations/algorithms
-      optionalimage: https://d1z850dzhxs7de.cloudfront.net/topics/algo/small-icon.hover.png
-      date: April 28, 2014
-
-#This section is optional - embeds slideshows from speakerdeck
-# to get the speakerdeck ID copy the embed code and look for the data-it attribute
-speakerdeck:
-   profileurl: https://speakerdeck.com/robhinds
-   talks:
-    - title: Product Management for Engineers
-      speakerdeckId: 94f0070c4e434ec79fe9b4eb2cb574e0
-      conference: API Conference, Berlin 2018
-    - title: Agile Machine Learning - from Theory to Production
-      speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
-      conference: W-JAX Conference, Munich 2017 (London 2017)
+   date: 1999
+   subject: Computer Science
+   school: Arizona State University
 
 #List of interesting Github repo/projects to include - optional
 github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
+ - jplesperance/redis-sniffer
+ - jplesperance/redis-replay
+ - jplesperance/tcn
 
 #Stackoverflow flair is optional
 stackoverflow:
@@ -115,9 +71,11 @@ stackoverflow:
    flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an engineer with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+Experienced Information Security Professional with a demonstrated history working in the health care industry and specializing in Cloud Security. Areas of expertise include: Enterprise Software, Regulator Compliance, Application Security, Identity and Access Management, Cloud Security, Container Security, Enterprise Architecture, DevSecOps, Pen Testing, Encryption/PKI and Infrastructure Architecture.
+<br/><br/>
+An accomplished professional with over 20 years of diverse IT experience in the fields of Software Engineering, Information Security Architecture, Network Architecture, Program Management, Technical Operations and Enterprise Solutions Architecture.
+<br/><br/>
+Creative problem solver and strategic decision maker in fast-paced fluid environments. 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
@@ -129,4 +87,4 @@ additionalinfo: |
    <strong>Development Control</strong>: I have a good knowledge of application life-cycle management and have worked with SVN, Git, Maven, Gradle, Sonar, Jenkins, TeamCity, etc. I have experience with an array of testing tools and technologies.<br/><br/>
    I have also gained experience and knowledge of other technologies from several side projects and research that I have undertaken in my free time, including Android, a variety of social APIs (Twitter etc) and cloud platforms such as CloudFoundry/OpenShift/AppFog/AWS. <br/><br/>
    As part of Nerdability, I created, and am now primary contributor to, two Spring projects - <a target='_blank' href="https://github.com/robhinds/spring-social-geeklist">Spring-Social-Geeklist</a> and <a target='_blank' href="https://github.com/nerdability/spring-social-khan-academy">Spring-Social-Khan-Academy</a>, which provide core integration with those third-party APIs on top of the Spring Social framework. They are both listed as community projects: <a target='_blank' href="http://projects.spring.io/spring-social/">http://projects.spring.io/spring-social/</a>. <br/><br/>
-   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="http://automateddeveloper.blogspot.com/">automateddeveloper.blogspot.com</a> (I am also a <a target='_blank' href="https://dzone.com/users/899489/rhinds.html">DZone MVB</a>)
+   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://lesperance.io/">lesperance.io</a>
