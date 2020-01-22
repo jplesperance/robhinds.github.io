@@ -35,7 +35,7 @@ blogfeed: https://lesperance.io/feed.xml
 #Work experience is required
 roles:
  - title: Senior Security Architect
-   start: 01/2018
+   start: 01/18
    end: Ongoing
    employer: Evernote
    description: Responsible for Infrastructure, Network and Data Security<br />
@@ -52,8 +52,8 @@ roles:
     - Defined a Kubernetes Security Maturity roadmap to help improve the security posture of all microservices deployments and help ensure a least privileged model<br />
     - Led the infrastructure and security sub-teams for designing and standing up a new Kubernetes cluster with the Istio Service Mesh<br />
  - title: Senior DevOps Engineer
-   start: 04/2016
-   end: 12/2017
+   start: 04/16
+   end: 12/17
    employer: eBay Inc
    description: Lead on the Enterprise Security Operations and Development team.<br />Responsibilities include:<br />
     - Implementation and administration of SaltStack for State Management and command channels<br />
