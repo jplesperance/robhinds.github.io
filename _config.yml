@@ -40,17 +40,17 @@ roles:
    employer: Evernote
    description: Responsible for Infrastructure, Network and Data Security<br />
     - Create and Socialize Security Policies to the Technical Operations and Engineering teams<br />
-    - Conduct security reviews on new cloud products
-    - Review all infrastructure, data and network components of all software and design documentation
-    - Refactored IAM usage from a broad access model down to a least privileged model
-    - Create a data catalog, with data classifications
-    - Create and document threat models, and determine the needed controls to minimize risks to an acceptable level
-    - Setup tools to scan the Cloud infrastructure against a set of security policies and alert on violations
-    - Audit the cloud infrastructure and IAM implementations to ensure defined policies and approved patterns are continuously being followed
-    - Work with Tech Ops and Engineering to define new patterns that meet the organization's security policies and goals as needed
-    - Defined a secure and auditable secret management solution and policy; provided a roadmap of how the Tech Ops team should implement the solution to minimize engineers ability to see all secrets
-    - Defined a Kubernetes Security Maturity roadmap to help improve the security posture of all microservices deployments and help ensure a least privileged model
-    - Led the infrastructure and security sub-teams for designing and standing up a new Kubernetes cluster with the Istio Service Mesh
+    - Conduct security reviews on new cloud products<br />
+    - Review all infrastructure, data and network components of all software and design documentation<br />
+    - Refactored IAM usage from a broad access model down to a least privileged model<br />
+    - Create a data catalog, with data classifications<br />
+    - Create and document threat models, and determine the needed controls to minimize risks to an acceptable level<br />
+    - Setup tools to scan the Cloud infrastructure against a set of security policies and alert on violations<br />
+    - Audit the cloud infrastructure and IAM implementations to ensure defined policies and approved patterns are continuously being followed<br />
+    - Work with Tech Ops and Engineering to define new patterns that meet the organization's security policies and goals as needed<br />
+    - Defined a secure and auditable secret management solution and policy; provided a roadmap of how the Tech Ops team should implement the solution to minimize engineers ability to see all secrets<br />
+    - Defined a Kubernetes Security Maturity roadmap to help improve the security posture of all microservices deployments and help ensure a least privileged model<br />
+    - Led the infrastructure and security sub-teams for designing and standing up a new Kubernetes cluster with the Istio Service Mesh<br />
 
 #Education is required
 education:
