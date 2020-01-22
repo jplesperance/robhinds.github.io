@@ -51,22 +51,22 @@ roles:
     - Defined a secure and auditable secret management solution and policy; provided a roadmap of how the Tech Ops team should implement the solution to minimize engineers ability to see all secrets<br />
     - Defined a Kubernetes Security Maturity roadmap to help improve the security posture of all microservices deployments and help ensure a least privileged model<br />
     - Led the infrastructure and security sub-teams for designing and standing up a new Kubernetes cluster with the Istio Service Mesh<br />
-  - title: Senior DevOps Engineer
-    start: 04/2016
-    end: 12/2017
-    employer: eBay Inc
-    description: Lead on the Enterprise Security Operations and Development team.<br />Responsibilities include:<br />
-      - Implementation and administration of SaltStack for State Management and command channels<br />
-      - Implementation and administration of Nagios XI for system and service monitoring<br />
-      - Hardening of Infrastructure<br />
-      - Manage Secret/key Management infrastructure that support revenue<br />
-      - Patching of infrastructure<br />
-      - Performing BCDR excercises<br />
-      - Develop tools for process automation<br />
-      - eBay Agile Leader<br />
-      - eBay Privacy Champion<br />
-      - eBay Security Champion<br />
-      - Led a cross-function Cryptography team<br />
+ - title: Senior DevOps Engineer
+   start: 04/2016
+   end: 12/2017
+   employer: eBay Inc
+   description: Lead on the Enterprise Security Operations and Development team.<br />Responsibilities include:<br />
+    - Implementation and administration of SaltStack for State Management and command channels<br />
+    - Implementation and administration of Nagios XI for system and service monitoring<br />
+    - Hardening of Infrastructure<br />
+    - Manage Secret/key Management infrastructure that support revenue<br />
+    - Patching of infrastructure<br />
+    - Performing BCDR excercises<br />
+    - Develop tools for process automation<br />
+    - eBay Agile Leader<br />
+    - eBay Privacy Champion<br />
+    - eBay Security Champion<br />
+    - Led a cross-function Cryptography team<br />
 
 #Education is required
 education:
