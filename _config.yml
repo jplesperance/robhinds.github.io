@@ -67,21 +67,21 @@ roles:
     - eBay Privacy Champion<br />
     - eBay Security Champion<br />
     - Led a cross-function Cryptography team<br />
- - title: Manager, DevOps
+ - title: Manager of DevOps
    start: 03/15
    end: 04/16
    employer: Apixio Inc
    description: Work on the Technical Operations Team.<br />
-    - Used Ansible to create a reusable/extensible application deployment framework for deploying applications into AWS EC2<br />
-    - Handled coordinating Vulnerability scans and vulnerability remediation of cloud applications on AWS in a HIPPA environment<br />
-    - Achieved PCI Certification on production infrastructure through issue/vulnerability remediation<br />
-    - Implemented SaltStack to handle AWS ec2 server config management<br />
-    - Implemented Terraform to handle AWS Cloud Infrastructure State<br />
-    - Utilized Terraform and docker to create a dynamic development environment<br />
-    - Designed and implemented SSH Key management system for our AWS VPC environments<br />
-    - Designed and implemented aws ec2 Security Group management system to handle managing AWS security groups rules<br />
-    - Deployed a Mesosphere cluster into AWS and created a container infrastructure to allow for more flexible options with having multiple versions of the same microservice in operation at the same time<br />
-    - Implemented Service Discovery, Centralized config management and Secret mamangement systems in AWS for creating a better security posture.<br />
+   #    - Used Ansible to create a reusable/extensible application deployment framework for deploying applications into AWS EC2<br />
+   # - Handled coordinating Vulnerability scans and vulnerability remediation of cloud applications on AWS in a HIPPA environment<br />
+   # - Achieved PCI Certification on production infrastructure through issue/vulnerability remediation<br />
+   # - Implemented SaltStack to handle AWS ec2 server config management<br />
+   # - Implemented Terraform to handle AWS Cloud Infrastructure State<br />
+   # - Utilized Terraform and docker to create a dynamic development environment<br />
+   # - Designed and implemented SSH Key management system for our AWS VPC environments<br />
+   # - Designed and implemented aws ec2 Security Group management system to handle managing AWS security groups rules<br />
+   # - Deployed a Mesosphere cluster into AWS and created a container infrastructure to allow for more flexible options with having multiple versions of the same microservice in operation at the same time<br />
+   # - Implemented Service Discovery, Centralized config management and Secret mamangement systems in AWS for creating a better security posture.<br />
 
 #Education is required
 education:
