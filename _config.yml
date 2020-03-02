@@ -72,7 +72,7 @@ roles:
    end: 04/16
    employer: Apixio Inc
    description: Work on the Technical Operations Team.<br />
-   #    - Used Ansible to create a reusable/extensible application deployment framework for deploying applications into AWS EC2<br />
+    - Used Ansible to create a reusable/extensible application deployment framework for deploying applications into AWS EC2<br />
    # - Handled coordinating Vulnerability scans and vulnerability remediation of cloud applications on AWS in a HIPPA environment<br />
    # - Achieved PCI Certification on production infrastructure through issue/vulnerability remediation<br />
    # - Implemented SaltStack to handle AWS ec2 server config management<br />
