@@ -99,7 +99,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: https://stackoverflow.com/users/1433057/jesse-p-lesperance
-   flairimageurl: http://stackoverflow.com/users/flair/1433057.png
+   flairimageurl: https://stackoverflow.com/users/flair/1433057.png
 
 intro: |
   Experienced Information Security Professional with a demonstrated history working in the health care industry and specializing in Cloud Security. Areas of expertise include: Enterprise Software, Regulator Compliance, Application Security, Identity and Access Management, Cloud Security, Container Security, Enterprise Architecture, DevSecOps, Pen Testing, Encryption/PKI and Infrastructure Architecture. <br /><br />
