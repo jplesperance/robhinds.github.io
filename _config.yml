@@ -82,6 +82,20 @@ roles:
     - Designed and implemented aws ec2 Security Group management system to handle managing AWS security groups rules<br />
     - Deployed a Mesosphere cluster into AWS and created a container infrastructure to allow for more flexible options with having multiple versions of the same microservice in operation at the same time<br />
     - Implemented Service Discovery, Centralized config management and Secret mamangement systems in AWS for creating a better security posture.<br />
+ - title: IT Operations Manager
+   start: 11/12
+   end: 01/15
+   employer: Hortonworks Inc
+   description: Came in as the first member of the IT Operations team. Handled SysOps, DevOps, NetOps and SecOps tasks. Setup all core company server infrastructure and currentCame in as the first member of the IT Operations team. Handled SysOps, DevOps, NetOps and SecOps tasks. Setup all core company server infrastructure and current support and maintain all infrastructure. Built a team of 5 Sys Admins and 2 Network Engineers.<br />
+    - Created new corporate servers and services as part of the building move(DNS, LDAP, NTP, Radius, Rancid, Zabbix. Deployed all applications using Docker<br />
+    - Implemented Kickstart for bare-metal provisioning until we were able to get BCFG2/Ansible in place.
+    - Handle all security related functions including, badging, managing camera and security network, defining IT processes(AUP, password policies, etc.), On-boarding(Account creation), Off-board(Account suspension/deletion), review device and server logs to identify possible issues, litigation searches, server hardening, identifying security holes and recommending fixes. Setting up IDS and behavioral analysis tools<br />
+    - Manage various IT Operations based projects and worked with stakeholders from gathering requirements through delivery.<br />
+    - Review all RFCs submitted to the Change/Release Advisory Board, perform initial review of request and classification of request. Also responsible for determining if RFCs are approved, rejected or tabled<br />
+    - Manage all corporate SAS solutions(Jira, Box.com, Github, Confluence, etc.)<br />
+    - Work with the Operations team to constantly review processes and infrastructure to see where improvements can be made<br />
+    - Implemented Zabbix and Nagios as our server monitoring solutions.<br /> 
+    - Built a team of 5 Sys Admins and 2 Network Engineers.<br />
 
 #Education is required
 education:
