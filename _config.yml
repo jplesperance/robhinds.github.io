@@ -9,7 +9,7 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
+ - title: Home/Blog
    url: https://lesperance.io
  - title: GitHub
    url: https://github.com/jplesperance
@@ -22,12 +22,13 @@ skills:
  - Kubernetes/Istio
  - Cryptography
  - Microservices
- - DevOps
+ - DevOps/DevSecOps
  - Continuous Integration
  - Network/Data/Infrastructure Security
  - DFIR
  - Network Penetration Testing
  - Wireless Security
+ - Reverse Engineering
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://lesperance.io/feed.xml
@@ -96,6 +97,66 @@ roles:
     - Work with the Operations team to constantly review processes and infrastructure to see where improvements can be made<br />
     - Implemented Zabbix and Nagios as our server monitoring solutions.<br /> 
     - Built a team of 5 Sys Admins and 2 Network Engineers.<br />
+ - title: Sr DevOps Engineer
+   start: 05/12
+   end: 10/12
+   employer: Accelerator Inc
+   description: Worked in the Developer Operations group within IT
+    - Refactored portions of the web application resulting in both a 40% reduction in code and a more flexible configuration
+    - Administered and maintained critical applications like: Confluence, Jira and Jenkins
+    - Lead for a site migrations from Zend Framework to Wordpress
+    - Managed an outsourced design team in the redesign of the company's web properies
+ - title: Director of Engineering
+   start: 05/2010
+   end: 12/11
+   employer: Ricoh EWS
+   description: Joined as a Lead Software Engineer, the companies first engineering hire, promoted to Engineering Manager a short time after and to Director of Engineering a year later.
+    - Recruited and hired a team of 15 software engineers.  10 Backend PHP/Java engineers and 5 Frontend engineers
+    - Architected and built a RESTful SaaS web service for their electonic document workflow offering.
+    - Mentored and promoted 2 engineers into management and created an SDK Development/Professional Services team
+    - Architected the cloud based environment for hosting the SaaS offering in AWS, with failover and scalability adopting a hybrid cloud model
+ - title: Senior Software Engineer
+   start: 09/08
+   end: 05/10
+   employer: CNET/CBS Interactive
+   description: Worked with a small team to develop and maintain one of the largets video/community sites on the internet at the time, TV.com
+    - Created a Unified Video Infrastructure that ingested videos from partners, normalizws the data and redistributes the videos out to partners
+    - Create various tools for analyzing site performance and indentify performance bottlenecks
+    - Created the TV.com HD Video Gallery
+ - title: Senior Software Architect
+   start: 04/08
+   end: 09/08
+   employer: Zend Technologies
+   description: Worked as one of two Technical Consultants for North America
+    - Attended pre-sales meetings with clients and partners to gather information and determine the type of consulting services needed
+    - Conducted Webinars and on-site training on topics like Unit Testing, Continuous Integration, Application Security and Zend Framework usage
+    - Traveled to customer and partner sites to provide training, consulting and application development
+ - title: Director of Technology
+   start: 10/07
+   end: 04/08
+   employer: Pickpal
+   description: Managed the engineering team and companies compute infrastructure
+    - Hired and managed a team of engineers, designers and system admins
+    - Designed a sports wagering application framework that allowed for the easy lauch of 36 team rival sites based on theming and configuration changes
+    - Architected a server/application architecture to handle 10,000 concurrent connections per second
+ - title: Senior Web Developer
+   start: 06/06
+   end: 10/07
+   employer: VMWare
+   description: Worked closely with the web marketing team and the techinical network team
+    - Developed the Virtual Appliance Marketplace
+    - Supported the VMWare Technical Network and helped migrate from a forum based site to a community based site
+    - Took ownership of the code deployment process and refactored the legacy deployment architecture into a more robust architecture that allowed roll back without another deployement
+    - Created the initial(pre-SFDC) VMWare Partner Portal
+ - title: Lead Developer
+   start: 01/00
+   end: 05/06
+   employer: Wiscasset Web Development
+   description: Responsible for consulting with potential clients
+    - Managed a team of 6 developers
+    - Mentored and handled code reviews for junior and mid-level engineers
+    - Created Technical and End-user documentation
+    - Worked with clients directly for periodic code drops and final milestone deliveries
 
 #Education is required
 education:
@@ -122,5 +183,6 @@ intro: |
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
-  <strong>Information Security</strong> I currently work as a Senior Security Architect for Evernote.  I am one of 2 Security Architects in the organization, and handle Network, Data 
+  <strong>Information Security</strong> I currently work as a Senior Security Architect for Evernote.  I am the singular Security Architect in the organization, and handle Network, Data and Cloud Security
+  <strong>DevOps/DevSecOps</strong> I have over a decade of DevOps experience including, CI/CD, Infr as Code, Configuration Management(Ansible, Puppet and SaltStack), Server Management, Monitoring and automation 
   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://lesperance.io/">lesperance.io</a>
