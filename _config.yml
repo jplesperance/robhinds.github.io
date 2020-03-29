@@ -184,5 +184,5 @@ intro: |
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
   <strong>Information Security</strong> I currently work as a Senior Security Architect for Evernote.  I am the singular Security Architect in the organization, and handle Network, Data and Cloud Security<br />
-  <strong>DevOps/DevSecOps</strong> I have over a decade of DevOps experience including, CI/CD, Infr as Code, Configuration Management(Ansible, Puppet and SaltStack), Server Management, Monitoring and automation<br /> 
+  <strong>DevOps/DevSecOps</strong> I have over a decade of DevOps experience including, CI/CD, Infr as Code, Configuration Management(Ansible, Puppet and SaltStack), Server Management, Monitoring and automation<br /><br /> 
   I write a blog covering technical and opinion articles that can be found here: <a target='_blank' href="https://lesperance.io/">lesperance.io</a>
