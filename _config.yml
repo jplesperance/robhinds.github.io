@@ -19,6 +19,8 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Cloud Security
+ - Configuration Management(Ansible, Puppet, SaltStack)
+ - Process Automation
  - Kubernetes/Istio
  - Cryptography
  - Microservices
@@ -29,6 +31,7 @@ skills:
  - Network Penetration Testing
  - Wireless Security
  - Reverse Engineering
+ - Programming(Python, Golang, Bash)
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://lesperance.io/feed.xml
@@ -177,9 +180,9 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/1433057.png
 
 intro: |
-  Experienced Information Security Professional with a demonstrated history working in the health care industry and specializing in Cloud Security. Areas of expertise include: Enterprise Software, Regulator Compliance, Application Security, Identity and Access Management, Cloud Security, Container Security, Enterprise Architecture, DevSecOps, Pen Testing, Encryption/PKI and Infrastructure Architecture. <br /><br />
-  An accomplished professional with over 20 years of diverse IT experience in the fields of Software Engineering, Information Security Architecture, Network Architecture, Program Management, Technical Operations and Enterprise Solutions Architecture. <br/><br/>
-  Creative problem solver and strategic decision maker in fast-paced fluid environments. 
+  Experienced Information Security hands on technologey leaders with a demonstrated security, vulnerability management & penetration testing accomplishments, specializing in cloud security. Areas of expertise include: Enterprise Software, Regulator Compliance, Application Security, Identity and Access Management, Cloud Security, Container Security, Enterprise Architecture, DevSecOps, Pen Testing, Encryption/PKI and Infrastructure Architecture. <br /><br />
+  An accomplished professional with over 10+ years of diverse IT experience in the fields of Software Engineering, Information Security Architecture, Network Architecture, Program Management, Technical Operations and Enterprise Solutions Architecture. <br/><br/>
+  Creative problem solver and strategic decision maker in fast-paced fluid and cross functional environments. 
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
