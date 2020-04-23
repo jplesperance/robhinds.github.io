@@ -179,6 +179,14 @@ stackoverflow:
    profileurl: https://stackoverflow.com/users/1433057/jesse-p-lesperance
    flairimageurl: https://stackoverflow.com/users/flair/1433057.png
 
+coursera:
+  - course:
+    title: WiFi Security Basics
+    badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
+    link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
+    date: 11/28/2019
+
+
 intro: |
   Experienced Information Security hands on technology leader with a demonstrated security, vulnerability management & penetration testing accomplishments, specializing in cloud security. Areas of expertise include: Enterprise Software, Regulator Compliance, Application Security, Identity and Access Management, Cloud Security, Container Security, Enterprise Architecture, DevSecOps, Pen Testing, Encryption/PKI and Infrastructure Architecture. <br /><br />
   An accomplished professional with over 10+ years of diverse IT experience in the fields of Software Engineering, Information Security Architecture, Network Architecture, Program Management, Technical Operations and Enterprise Solutions Architecture. <br/><br/>
