@@ -186,18 +186,6 @@ coursera:
       badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
       link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
       date: 11/28/2019
-    - title: WiFi Security Basics 2
-      badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
-      link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
-      date: 11/28/2019
-    - title: WiFi Security Basics 3
-      badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
-      link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
-      date: 11/28/2019
-    - title: WiFi Security Basics
-      badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
-      link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
-      date: 11/28/2019
 
 isc2:
   courses:
