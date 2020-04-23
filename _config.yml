@@ -151,7 +151,7 @@ roles:
     - Supported the VMWare Technical Network and helped migrate from a forum based site to a community based site
     - Took ownership of the code deployment process and refactored the legacy deployment architecture into a more robust architecture that allowed roll back without another deployement
     - Created the initial(pre-SFDC) VMWare Partner Portal
- - title: Lead Developer
+ - title: Lead Developerhttps://www.dmv.ca.gov/portal/dmv/detail/pubs/brochures/fast_facts/ffvr26
    start: 01/00
    end: 05/06
    employer: Wiscasset Web Development
@@ -180,11 +180,11 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/1433057.png
 
 coursera:
-  - courses:
-      - title: WiFi Security Basics
-        badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
-        link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
-        date: 11/28/2019
+  courses:
+    - title: WiFi Security Basics
+      badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
+      link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
+      date: 11/28/2019
 
 
 intro: |
