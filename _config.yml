@@ -151,7 +151,7 @@ roles:
     - Supported the VMWare Technical Network and helped migrate from a forum based site to a community based site
     - Took ownership of the code deployment process and refactored the legacy deployment architecture into a more robust architecture that allowed roll back without another deployement
     - Created the initial(pre-SFDC) VMWare Partner Portal
- - title: Lead Developerhttps://www.dmv.ca.gov/portal/dmv/detail/pubs/brochures/fast_facts/ffvr26
+ - title: Lead Developer
    start: 01/00
    end: 05/06
    employer: Wiscasset Web Development
