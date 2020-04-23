@@ -186,11 +186,11 @@ coursera:
       badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
       link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
       date: 11/28/2019
-    - title: WiFi Security Basics
+    - title: WiFi Security Basics 2
       badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
       link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
       date: 11/28/2019
-    - title: WiFi Security Basics
+    - title: WiFi Security Basics 3
       badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
       link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
       date: 11/28/2019
@@ -199,6 +199,11 @@ coursera:
       link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
       date: 11/28/2019
 
+isc2:
+  courses:
+    - title: Introduction to Memory Analysis with Volatility
+      type: Lab Course
+      date: 2/13/2020
 
 intro: |
   Experienced Information Security hands on technology leader with a demonstrated security, vulnerability management & penetration testing accomplishments, specializing in cloud security. Areas of expertise include: Enterprise Software, Regulator Compliance, Application Security, Identity and Access Management, Cloud Security, Container Security, Enterprise Architecture, DevSecOps, Pen Testing, Encryption/PKI and Infrastructure Architecture. <br /><br />
