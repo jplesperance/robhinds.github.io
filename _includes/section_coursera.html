@@ -6,7 +6,10 @@
 		<div class="content-rounded-panel">
 			<div id="courseraPanel">
 				{% for course in site.coursera.courses %}
+                  {% assign loopindex = forloop.index | modulo: 3 %}
+                  {% if loopindex == 1 %}
 				<div class="row">
+                  {% endif %}
 					<div class="col-sm-6">
 						<a target='_blank' href="{{course.link}}">
                           <img src="{{course.badge}}" />
@@ -14,7 +17,8 @@
                         <strong>{{course.title}}</strong>
                         <i>{{course.date}}</i>
 					</div>
-				</div><br/>
+                    {% if loopindex == 0 %}
+				</div>
 				{% endfor %}
 			</div>
 		</div>
