@@ -186,12 +186,40 @@ coursera:
       badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/14222590
       link: https://www.credential.net/019ca699-855c-4d1e-8007-500678dd18ea
       date: 11/28/2019
+  courses:
+    - title: Password Cracking Basics
+      badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/16889893
+      link: https://www.credential.net/97159ac7-f801-492f-9ecc-dfbdb0a4a813
+      date: 3/23/2020
 
 isc2:
   courses:
     - title: Introduction to Memory Analysis with Volatility
       type: Lab Course
       date: 2/13/2020
+
+certifications:
+  courses:
+    - title: Offensive Security Wireless Professional
+      earned: 5/19/2019
+      exires: N/A
+      org: Offensive Secuirty
+      link:
+    - title: Junior Penetration Tester
+      earned: 5/26/2019
+      expires: N/A
+      org: eLearn Security
+      link:
+    - title: Certified Information Systems Auditor
+      earned: 5/17/2017
+      expires: 12/31/2021
+      org: ISACA
+      link:
+    - title: Certified Cloud Security Professional
+      earned:
+      expires:
+      org: (ISC)2
+      link:
 
 intro: |
   Experienced Information Security hands on technology leader with a demonstrated security, vulnerability management & penetration testing accomplishments, specializing in cloud security. Areas of expertise include: Enterprise Software, Regulator Compliance, Application Security, Identity and Access Management, Cloud Security, Container Security, Enterprise Architecture, DevSecOps, Pen Testing, Encryption/PKI and Infrastructure Architecture. <br /><br />
