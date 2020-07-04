@@ -38,6 +38,16 @@ blogfeed: https://lesperance.io/feed.xml
 
 #Work experience is required
 roles:
+ - title: Member of Advisory Board
+   start: 06/20
+   end: Ongoing
+   employer: CionSystems
+   description: Advisor
+ - title: Member of Advisory Board
+   start: 06/20
+   end: Ongoing
+   employer: Cuemby
+   description: Advisor
  - title: Senior Security Architect
    start: 01/18
    end: Ongoing
